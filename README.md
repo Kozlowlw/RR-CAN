@@ -1,5 +1,5 @@
 # RR-CAN
-Archive of my ada.rose-hulman.edu gitlab senior project.
+Archive of my ada.rose-hulman.edu gitlab senior project for Rolls-Royce.
 My main contributions were the code/cht and code/cht2 packages.
 I was in charge of researching and implementing commong vulnerabilities that could be used on any automotive CAN network.
 The UDS and ISO-TP services do not work (pyvit issue).
